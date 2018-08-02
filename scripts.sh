@@ -1,5 +1,7 @@
-ls -> to list the files and directories
+ls # to list the files and directories
 
-ls -l -> to get the more information about the listed files
+ls -l #  to get the more information about the listed files
 
-ls -a -> to list the hidden files or invisible files
+ls -a #  to list the hidden files or invisible files
+
+cal
